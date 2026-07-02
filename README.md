@@ -8,14 +8,14 @@ GlowMart Nigeria Ltd \| Power BI Project \| Retail Sales Data \| FMCG Beauty & P
 
 ## 📚 Table of Contents
 
--   [Project Overview](project-overview)
--   [Business Objective](business-objective)
--   [Tools & Technologies](tools-technologies)
--   [Dataset Overview](dataset-overview)
--   [Dax Measures](data-cleaning-process)
--   [Power BI Dashboard](power-bi-dashboard)
--   [Findings](key-insights)
--   [Recommendations](recommendations)
+-   [Project Overview](/project-overview)
+-   [Business Objective](/business-objective)
+-   [Tools & Technologies](/tools-technologies)
+-   [Dataset Overview](/dataset-overview)
+-   [Dax Measures](/data-cleaning-process)
+-   [Power BI Dashboard](/power-bi-dashboard)
+-   [Findings](/key-insights)
+-   [Recommendations](/recommendations)
 
 <br>
 
